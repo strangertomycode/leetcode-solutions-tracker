@@ -3,7 +3,7 @@ Problem : 20. Valid Parentheses
 Difficulty: Easy
 Topics   : String, Stack
 Runtime  : 0
-Memory   : 19380000
+Memory   : 19376000
 Language : python3
 """
 
