@@ -1,8 +1,11 @@
+
 <div align="center">
 
 # 🧩 LeetCode Solutions Tracker
 
-Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
+A structured and automated archive of accepted LeetCode solutions.
+
+---
 
 ![Total](https://img.shields.io/badge/Total-3-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-3-00B8A3?style=for-the-badge)
@@ -13,34 +16,46 @@ Automated archive of accepted LeetCode solutions, synced using a custom Python t
 
 ---
 
-## 📁 Repository Structure
+## 📌 Overview
 
-Each problem lives in its own folder named `{problem-number}-{problem-title}`:
-
-```
-leetcode-solutions-tracker/
-├── 1. Two SUm/
-│   ├── README.md   ← full problem statement
-│   └── two_sum.py      ← accepted solution with metadata
-└── ...
-```
+This repository automatically stores and organizes all my accepted LeetCode submissions with:
+- 📁 Clean folder structure per problem
+- 🧠 Problem statement in `README.md`
+- 💻 Fully working solution with metadata
+- 🔄 Auto-sync via Python script
 
 ---
 
-## 🟢 Easy (3)
+## 📁 Structure
+<problem-id>. <problem-title>/
+├── README.md # Problem statement
+└── solution.py # Accepted solution
 
-| # | Title | Topics |
-|---|-------|--------|
+---
+
+## 🟢 Easy Problems
+
+| # | Problem | Topics |
+|---|----------|--------|
 | 1 | [Two Sum](./1.%20Two%20Sum/) | `Array`, `Hash Table` |
 | 20 | [Valid Parentheses](./20.%20Valid%20Parentheses/) | `String`, `Stack` |
 | 21 | [Merge Two Sorted Lists](./21.%20Merge%20Two%20Sorted%20Lists/) | `Linked List`, `Recursion` |
 
-## 🟡 Medium (0)
 
-_None yet._
+## 🟡 Medium Problems
 
-## 🔴 Hard (0)
+_No problems yet._
 
-_None yet._
+
+## 🔴 Hard Problems
+
+_No problems yet._
+
 
 ---
+
+<div align="center">
+
+⭐ If you like this setup, consider starring the repo!
+
+</div>
