@@ -31,9 +31,9 @@ leetcode-solutions-tracker/
 
 | # | Title | Topics |
 |---|-------|--------|
-| 1 | [Two Sum](./1. Two Sum/) | `Array`, `Hash Table` |
-| 20 | [Valid Parentheses](./20. Valid Parentheses/) | `String`, `Stack` |
-| 21 | [Merge Two Sorted Lists](./21. Merge Two Sorted Lists/) | `Linked List`, `Recursion` |
+| 1 | [Two Sum](./1.%20Two%20Sum/) | `Array`, `Hash Table` |
+| 20 | [Valid Parentheses](./20.%20Valid%20Parentheses/) | `String`, `Stack` |
+| 21 | [Merge Two Sorted Lists](./21.%20Merge%20Two%20Sorted%20Lists/) | `Linked List`, `Recursion` |
 
 ## 🟡 Medium (0)
 
