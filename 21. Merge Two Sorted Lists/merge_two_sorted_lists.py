@@ -3,7 +3,7 @@ Problem : 21. Merge Two Sorted Lists
 Difficulty: Easy
 Topics   : Linked List, Recursion
 Runtime  : 0
-Memory   : 19284000
+Memory   : 19276000
 Language : python3
 """
 
