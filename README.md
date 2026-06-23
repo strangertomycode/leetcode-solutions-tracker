@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-0-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-0-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-3-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-3-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-0-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
@@ -27,9 +27,13 @@ leetcode-solutions-tracker/
 
 ---
 
-## 🟢 Easy (0)
+## 🟢 Easy (3)
 
-_None yet._
+| # | Title | Topics |
+|---|-------|--------|
+| 1 | [Two Sum](./1. Two Sum/) | `Array`, `Hash Table` |
+| 20 | [Valid Parentheses](./20. Valid Parentheses/) | `String`, `Stack` |
+| 21 | [Merge Two Sorted Lists](./21. Merge Two Sorted Lists/) | `Linked List`, `Recursion` |
 
 ## 🟡 Medium (0)
 
