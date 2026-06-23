@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-8-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-8-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-0-FFA116?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-10-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-9-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-1-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
 </div>
@@ -15,14 +15,13 @@ Automated archive of accepted LeetCode solutions, synced using a custom Python t
 
 ## 📁 Repository Structure
 
-Each problem lives in its own folder named `{problem-number}-{problem-title}`:
+Each problem lives in its own folder`:
 
 ```
 leetcode-solutions-tracker/
-├── 1. Two SUm/
+├── 1. Two Sum/
 │   ├── README.md   ← full problem statement
 │   └── two_sum.py      ← accepted solution with metadata
-└── ...
 ```
 
 ---
@@ -39,10 +38,13 @@ leetcode-solutions-tracker/
 | 226 | [Invert Binary Tree](./226.%20Invert%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram/) | `Hash Table`, `String`, `Sorting` |
 | 704 | [Binary Search](./704.%20Binary%20Search/) | `Array`, `Binary Search` |
+| 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 
 ## 🟡 Medium
 
-_None yet._
+| # | Title | Topics |
+|---|-------|--------|
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 
 ## 🔴 Hard
 
