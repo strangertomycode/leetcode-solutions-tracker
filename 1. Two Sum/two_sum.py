@@ -2,8 +2,8 @@
 Problem : 1. Two Sum
 Difficulty: Easy
 Topics   : Array, Hash Table
-Runtime  : 0
-Memory   : 20380000
+Runtime  : 3
+Memory   : 20332000
 Language : python3
 """
 
