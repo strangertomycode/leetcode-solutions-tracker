@@ -1,28 +1,46 @@
-# LeetCode Solutions Tracker
+<div align="center">
 
-Automated archive of my accepted LeetCode solutions, synced using a custom Python tool.
+# 🧩 LeetCode Solutions Tracker
 
-![Problems Solved](https://img.shields.io/badge/problems%20solved-4-brightgreen)
+Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
+
+![Total](https://img.shields.io/badge/Total-0-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-0-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-0-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
+
+</div>
 
 ---
 
-## Index
+## 📁 Repository Structure
 
-### 🟢 Easy (3)
-| # | Title | Topics |
-|---|-------|--------|
-| 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists/) | Linked List, Recursion |
-| 20 | [Valid Parentheses](./20-valid-parentheses/) | String, Stack |
-| 1 | [Two Sum](./1-two-sum/) | Array, Hash Table |
+Each problem lives in its own folder named `{problem-number}-{problem-title}`:
 
-### 🟡 Medium (1)
-| # | Title | Topics |
-|---|-------|--------|
-| 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | Array, Binary Search |
+```
+leetcode-solutions-tracker/
+├── 1-two-sum/
+│   ├── problem_description.md   ← full problem statement
+│   └── problem_solution.py      ← accepted solution with metadata
+└── ...
+```
 
-### 🔴 Hard (0)
+---
+
+## 🟢 Easy (0)
+
 _None yet._
 
+## 🟡 Medium (0)
+
+_None yet._
+
+## 🔴 Hard (0)
+
+_None yet._
 
 ---
-*Auto-generated. Each folder contains `problem_description.md` and `problem_solution.py`.*
+
+<div align="center">
+  <sub>Auto-generated on every sync · Each folder contains <code>problem_description.md</code> and <code>problem_solution.py</code></sub>
+</div>
