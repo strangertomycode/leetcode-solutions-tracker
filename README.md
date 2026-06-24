@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-12-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-11-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-15-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-14-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-1-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
@@ -38,7 +38,10 @@ leetcode-solutions-tracker/
 | 125 | [Valid Palindrome](./125.%20Valid%20Palindrome/) | `Two Pointers`, `String` |
 | 141 | [Linked List Cycle](./141.%20Linked%20List%20Cycle/) | `Hash Table`, `Linked List`, `Two Pointers` |
 | 226 | [Invert Binary Tree](./226.%20Invert%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
+| 232 | [Implement Queue using Stacks](./232.%20Implement%20Queue%20using%20Stacks/) | `Stack`, `Design`, `Queue` |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram/) | `Hash Table`, `String`, `Sorting` |
+| 278 | [First Bad Version](./278.%20First%20Bad%20Version/) | `Binary Search`, `Interactive` |
+| 383 | [Ransom Note](./383.%20Ransom%20Note/) | `Hash Table`, `String`, `Counting` |
 | 704 | [Binary Search](./704.%20Binary%20Search/) | `Array`, `Binary Search` |
 | 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 
