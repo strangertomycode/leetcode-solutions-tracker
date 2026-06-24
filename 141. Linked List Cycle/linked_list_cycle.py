@@ -2,8 +2,8 @@
 Problem : 141. Linked List Cycle
 Difficulty: Easy
 Topics   : Hash Table, Linked List, Two Pointers
-Runtime  : 55
-Memory   : 23136000
+Runtime  : 63
+Memory   : 22564000
 Language : python3
 """
 
@@ -15,14 +15,26 @@ Language : python3
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        visited = set()
-        curr = head
-        while curr:
-            if curr not in visited:
-                visited.add(curr)
-                curr = curr.next
-            else:
+        # visited = set()
+        # curr = head
+        # while curr:
+        #     if curr not in visited:
+        #         visited.add(curr)
+        #         curr = curr.next
+        #     else:
+        #         return True
+        
+        # return False
+
+        s, f = head, head
+
+        while f and f.next:
+            s = s.next
+            f = f.next.next
+            if f == s:
                 return True
         
         return False
+
+
 
