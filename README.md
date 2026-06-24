@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-15-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-16-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-14-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-1-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-2-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
 </div>
@@ -49,6 +49,7 @@ leetcode-solutions-tracker/
 
 | # | Title | Topics |
 |---|-------|--------|
+| 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 
 ## 🔴 Hard
