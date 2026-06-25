@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-21-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-16-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-24-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-19-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-5-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
@@ -33,11 +33,14 @@ leetcode-solutions-tracker/
 | 1 | [Two Sum](./1.%20Two%20Sum/) | `Array`, `Hash Table` |
 | 20 | [Valid Parentheses](./20.%20Valid%20Parentheses/) | `String`, `Stack` |
 | 21 | [Merge Two Sorted Lists](./21.%20Merge%20Two%20Sorted%20Lists/) | `Linked List`, `Recursion` |
+| 67 | [Add Binary](./67.%20Add%20Binary/) | `Math`, `String`, `Bit Manipulation`, `Simulation` |
 | 70 | [Climbing Stairs](./70.%20Climbing%20Stairs/) | `Math`, `Dynamic Programming`, `Memoization` |
 | 110 | [Balanced Binary Tree](./110.%20Balanced%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 121 | [Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | `Array`, `Dynamic Programming` |
 | 125 | [Valid Palindrome](./125.%20Valid%20Palindrome/) | `Two Pointers`, `String` |
 | 141 | [Linked List Cycle](./141.%20Linked%20List%20Cycle/) | `Hash Table`, `Linked List`, `Two Pointers` |
+| 169 | [Majority Element](./169.%20Majority%20Element/) | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
+| 206 | [Reverse Linked List](./206.%20Reverse%20Linked%20List/) | `Linked List`, `Recursion` |
 | 226 | [Invert Binary Tree](./226.%20Invert%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 232 | [Implement Queue using Stacks](./232.%20Implement%20Queue%20using%20Stacks/) | `Stack`, `Design`, `Queue` |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram/) | `Hash Table`, `String`, `Sorting` |
