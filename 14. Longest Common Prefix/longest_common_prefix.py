@@ -3,7 +3,7 @@ Problem : 14. Longest Common Prefix
 Difficulty: Easy
 Topics   : Array, String, Trie
 Runtime  : 0
-Memory   : 19292000
+Memory   : 19224000
 Language : python3
 """
 
