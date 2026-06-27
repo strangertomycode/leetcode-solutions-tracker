@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-34-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-29-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-35-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-30-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-5-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
@@ -42,6 +42,7 @@ leetcode-solutions-tracker/
 | 110 | [Balanced Binary Tree](./110.%20Balanced%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 121 | [Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | `Array`, `Dynamic Programming` |
 | 125 | [Valid Palindrome](./125.%20Valid%20Palindrome/) | `Two Pointers`, `String` |
+| 136 | [Single Number](./136.%20Single%20Number/) | `Array`, `Bit Manipulation` |
 | 141 | [Linked List Cycle](./141.%20Linked%20List%20Cycle/) | `Hash Table`, `Linked List`, `Two Pointers` |
 | 169 | [Majority Element](./169.%20Majority%20Element/) | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
 | 191 | [Number of 1 Bits](./191.%20Number%20of%201%20Bits/) | `Divide and Conquer`, `Bit Manipulation` |
