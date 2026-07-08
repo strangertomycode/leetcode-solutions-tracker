@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-50-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-51-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-19-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-20-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
 </div>
@@ -69,6 +69,7 @@ leetcode-solutions-tracker/
 | 3 | [Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | `Hash Table`, `String`, `Sliding Window` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
+| 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
 | 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
