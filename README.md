@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-52-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-54-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-21-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-23-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
 
 </div>
@@ -73,6 +73,7 @@ leetcode-solutions-tracker/
 | 46 | [Permutations](./46.%20Permutations/) | `Array`, `Backtracking` |
 | 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
+| 75 | [Sort Colors](./75.%20Sort%20Colors/) | `Array`, `Two Pointers`, `Sorting` |
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | 102 | [Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal/) | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
@@ -82,6 +83,7 @@ leetcode-solutions-tracker/
 | 207 | [Course Schedule](./207.%20Course%20Schedule/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
 | 208 | [Implement Trie (Prefix Tree)](./208.%20Implement%20Trie%20%28Prefix%20Tree%29/) | `Hash Table`, `String`, `Design`, `Trie` |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
+| 236 | [Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 238 | [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/) | `Array`, `Prefix Sum` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
