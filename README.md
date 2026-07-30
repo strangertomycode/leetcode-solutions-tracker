@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-56-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-58-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-25-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-2-FF375F?style=for-the-badge)
 
 </div>
 
@@ -94,6 +94,9 @@ leetcode-solutions-tracker/
 
 ## 🔴 Hard
 
-_None yet._
+| # | Title | Topics |
+|---|-------|--------|
+| 42 | [Trapping Rain Water](./42.%20Trapping%20Rain%20Water/) | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
+| 76 | [Minimum Window Substring](./76.%20Minimum%20Window%20Substring/) | `Hash Table`, `String`, `Sliding Window` |
 
 ---
