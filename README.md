@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-58-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-59-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-25-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-2-FF375F?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=for-the-badge)
 
 </div>
 
@@ -98,5 +98,6 @@ leetcode-solutions-tracker/
 |---|-------|--------|
 | 42 | [Trapping Rain Water](./42.%20Trapping%20Rain%20Water/) | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 76 | [Minimum Window Substring](./76.%20Minimum%20Window%20Substring/) | `Hash Table`, `String`, `Sliding Window` |
+| 295 | [Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream/) | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 
 ---
