@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-60-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-61-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-25-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-26-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-4-FF375F?style=for-the-badge)
 
 </div>
@@ -77,6 +77,7 @@ leetcode-solutions-tracker/
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | 102 | [Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal/) | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
+| 139 | [Word Break](./139.%20Word%20Break/) | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | 150 | [Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation/) | `Array`, `Math`, `Stack` |
 | 155 | [Min Stack](./155.%20Min%20Stack/) | `Stack`, `Design` |
 | 200 | [Number of Islands](./200.%20Number%20of%20Islands/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Matrix` |
