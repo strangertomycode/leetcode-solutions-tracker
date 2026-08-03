@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-61-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-63-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-26-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-28-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-4-FF375F?style=for-the-badge)
 
 </div>
@@ -67,6 +67,7 @@ leetcode-solutions-tracker/
 | # | Title | Topics |
 |---|-------|--------|
 | 3 | [Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | `Hash Table`, `String`, `Sliding Window` |
+| 8 | [String to Integer (atoi)](./8.%20String%20to%20Integer%20%28atoi%29/) | `String` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
 | 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
@@ -87,6 +88,7 @@ leetcode-solutions-tracker/
 | 236 | [Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 238 | [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/) | `Array`, `Prefix Sum` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
+| 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
