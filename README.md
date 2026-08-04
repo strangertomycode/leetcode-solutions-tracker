@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-63-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-64-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-28-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-29-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-4-FF375F?style=for-the-badge)
 
 </div>
@@ -73,6 +73,7 @@ leetcode-solutions-tracker/
 | 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
 | 46 | [Permutations](./46.%20Permutations/) | `Array`, `Backtracking` |
 | 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
+| 54 | [Spiral Matrix](./54.%20Spiral%20Matrix/) | `Array`, `Matrix`, `Simulation` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
 | 75 | [Sort Colors](./75.%20Sort%20Colors/) | `Array`, `Two Pointers`, `Sorting` |
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
