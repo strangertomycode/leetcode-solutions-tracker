@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-64-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-66-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-29-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-31-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-4-FF375F?style=for-the-badge)
 
 </div>
@@ -67,6 +67,7 @@ leetcode-solutions-tracker/
 | # | Title | Topics |
 |---|-------|--------|
 | 3 | [Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | `Hash Table`, `String`, `Sliding Window` |
+| 5 | [Longest Palindromic Substring](./5.%20Longest%20Palindromic%20Substring/) | `Two Pointers`, `String`, `Dynamic Programming`, `Manacher` |
 | 8 | [String to Integer (atoi)](./8.%20String%20to%20Integer%20%28atoi%29/) | `String` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
@@ -76,6 +77,7 @@ leetcode-solutions-tracker/
 | 54 | [Spiral Matrix](./54.%20Spiral%20Matrix/) | `Array`, `Matrix`, `Simulation` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
 | 75 | [Sort Colors](./75.%20Sort%20Colors/) | `Array`, `Two Pointers`, `Sorting` |
+| 78 | [Subsets](./78.%20Subsets/) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | 102 | [Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal/) | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
