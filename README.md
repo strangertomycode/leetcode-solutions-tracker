@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-66-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-68-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-31-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-4-FF375F?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-32-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-5-FF375F?style=for-the-badge)
 
 </div>
 
@@ -84,6 +84,7 @@ leetcode-solutions-tracker/
 | 139 | [Word Break](./139.%20Word%20Break/) | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | 150 | [Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation/) | `Array`, `Math`, `Stack` |
 | 155 | [Min Stack](./155.%20Min%20Stack/) | `Stack`, `Design` |
+| 199 | [Binary Tree Right Side View](./199.%20Binary%20Tree%20Right%20Side%20View/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 200 | [Number of Islands](./200.%20Number%20of%20Islands/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Matrix` |
 | 207 | [Course Schedule](./207.%20Course%20Schedule/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
 | 208 | [Implement Trie (Prefix Tree)](./208.%20Implement%20Trie%20%28Prefix%20Tree%29/) | `Hash Table`, `String`, `Design`, `Trie` |
@@ -102,6 +103,7 @@ leetcode-solutions-tracker/
 
 | # | Title | Topics |
 |---|-------|--------|
+| 23 | [Merge k Sorted Lists](./23.%20Merge%20k%20Sorted%20Lists/) | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`, `Tournament Sort` |
 | 42 | [Trapping Rain Water](./42.%20Trapping%20Rain%20Water/) | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 76 | [Minimum Window Substring](./76.%20Minimum%20Window%20Substring/) | `Hash Table`, `String`, `Sliding Window` |
 | 295 | [Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream/) | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
