@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-70-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-72-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-32-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-7-FF375F?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-33-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-8-FF375F?style=for-the-badge)
 
 </div>
 
@@ -93,6 +93,7 @@ leetcode-solutions-tracker/
 | 238 | [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/) | `Array`, `Prefix Sum` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
+| 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
@@ -107,6 +108,7 @@ leetcode-solutions-tracker/
 | 42 | [Trapping Rain Water](./42.%20Trapping%20Rain%20Water/) | `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack` |
 | 76 | [Minimum Window Substring](./76.%20Minimum%20Window%20Substring/) | `Hash Table`, `String`, `Sliding Window` |
 | 84 | [Largest Rectangle in Histogram](./84.%20Largest%20Rectangle%20in%20Histogram/) | `Array`, `Stack`, `Monotonic Stack`, `Range Minimum/Maximum Query` |
+| 127 | [Word Ladder](./127.%20Word%20Ladder/) | `Hash Table`, `String`, `Breadth-First Search`, `Bidirectional Search` |
 | 224 | [Basic Calculator](./224.%20Basic%20Calculator/) | `Math`, `String`, `Stack`, `Recursion` |
 | 295 | [Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream/) | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | 297 | [Serialize and Deserialize Binary Tree](./297.%20Serialize%20and%20Deserialize%20Binary%20Tree/) | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
