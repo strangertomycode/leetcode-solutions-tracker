@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-72-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-74-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-33-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-35-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-8-FF375F?style=for-the-badge)
 
 </div>
@@ -70,6 +70,7 @@ leetcode-solutions-tracker/
 | 5 | [Longest Palindromic Substring](./5.%20Longest%20Palindromic%20Substring/) | `Two Pointers`, `String`, `Dynamic Programming`, `Manacher` |
 | 8 | [String to Integer (atoi)](./8.%20String%20to%20Integer%20%28atoi%29/) | `String` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
+| 17 | [Letter Combinations of a Phone Number](./17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | `Hash Table`, `String`, `Backtracking` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
 | 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
 | 46 | [Permutations](./46.%20Permutations/) | `Array`, `Backtracking` |
@@ -78,6 +79,7 @@ leetcode-solutions-tracker/
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
 | 75 | [Sort Colors](./75.%20Sort%20Colors/) | `Array`, `Two Pointers`, `Sorting` |
 | 78 | [Subsets](./78.%20Subsets/) | `Array`, `Backtracking`, `Bit Manipulation` |
+| 79 | [Word Search](./79.%20Word%20Search/) | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
 | 98 | [Validate Binary Search Tree](./98.%20Validate%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | 102 | [Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal/) | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
