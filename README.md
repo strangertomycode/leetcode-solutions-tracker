@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-74-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-76-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-35-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-8-FF375F?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-36-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
 
@@ -77,6 +77,7 @@ leetcode-solutions-tracker/
 | 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 54 | [Spiral Matrix](./54.%20Spiral%20Matrix/) | `Array`, `Matrix`, `Simulation` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
+| 62 | [Unique Paths](./62.%20Unique%20Paths/) | `Math`, `Dynamic Programming`, `Combinatorics` |
 | 75 | [Sort Colors](./75.%20Sort%20Colors/) | `Array`, `Two Pointers`, `Sorting` |
 | 78 | [Subsets](./78.%20Subsets/) | `Array`, `Backtracking`, `Bit Manipulation` |
 | 79 | [Word Search](./79.%20Word%20Search/) | `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix` |
@@ -114,5 +115,6 @@ leetcode-solutions-tracker/
 | 224 | [Basic Calculator](./224.%20Basic%20Calculator/) | `Math`, `String`, `Stack`, `Recursion` |
 | 295 | [Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream/) | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | 297 | [Serialize and Deserialize Binary Tree](./297.%20Serialize%20and%20Deserialize%20Binary%20Tree/) | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
+| 1235 | [Maximum Profit in Job Scheduling](./1235.%20Maximum%20Profit%20in%20Job%20Scheduling/) | `Array`, `Binary Search`, `Dynamic Programming`, `Sorting` |
 
 ---
