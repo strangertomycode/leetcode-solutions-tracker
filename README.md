@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-78-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-80-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-38-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-40-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -88,6 +88,7 @@ leetcode-solutions-tracker/
 | 139 | [Word Break](./139.%20Word%20Break/) | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | 150 | [Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation/) | `Array`, `Math`, `Stack` |
 | 155 | [Min Stack](./155.%20Min%20Stack/) | `Stack`, `Design` |
+| 198 | [House Robber](./198.%20House%20Robber/) | `Array`, `Dynamic Programming` |
 | 199 | [Binary Tree Right Side View](./199.%20Binary%20Tree%20Right%20Side%20View/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 200 | [Number of Islands](./200.%20Number%20of%20Islands/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Matrix` |
 | 207 | [Course Schedule](./207.%20Course%20Schedule/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
@@ -100,6 +101,7 @@ leetcode-solutions-tracker/
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
+| 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | 981 | [Time Based Key-Value Store](./981.%20Time%20Based%20Key-Value%20Store/) | `Hash Table`, `String`, `Binary Search`, `Design` |
