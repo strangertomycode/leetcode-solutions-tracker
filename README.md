@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-80-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-82-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-40-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-42-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -69,6 +69,7 @@ leetcode-solutions-tracker/
 | 3 | [Longest Substring Without Repeating Characters](./3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | `Hash Table`, `String`, `Sliding Window` |
 | 5 | [Longest Palindromic Substring](./5.%20Longest%20Palindromic%20Substring/) | `Two Pointers`, `String`, `Dynamic Programming`, `Manacher` |
 | 8 | [String to Integer (atoi)](./8.%20String%20to%20Integer%20%28atoi%29/) | `String` |
+| 11 | [Container With Most Water](./11.%20Container%20With%20Most%20Water/) | `Array`, `Two Pointers`, `Greedy` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 17 | [Letter Combinations of a Phone Number](./17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | `Hash Table`, `String`, `Backtracking` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
@@ -103,6 +104,7 @@ leetcode-solutions-tracker/
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
+| 739 | [Daily Temperatures](./739.%20Daily%20Temperatures/) | `Array`, `Stack`, `Monotonic Stack` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | 981 | [Time Based Key-Value Store](./981.%20Time%20Based%20Key-Value%20Store/) | `Hash Table`, `String`, `Binary Search`, `Design` |
 | 994 | [Rotting Oranges](./994.%20Rotting%20Oranges/) | `Array`, `Breadth-First Search`, `Matrix` |
