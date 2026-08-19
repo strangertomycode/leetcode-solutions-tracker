@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-82-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-86-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-42-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-46-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -72,9 +72,11 @@ leetcode-solutions-tracker/
 | 11 | [Container With Most Water](./11.%20Container%20With%20Most%20Water/) | `Array`, `Two Pointers`, `Greedy` |
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 17 | [Letter Combinations of a Phone Number](./17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | `Hash Table`, `String`, `Backtracking` |
+| 19 | [Remove Nth Node From End of List](./19.%20Remove%20Nth%20Node%20From%20End%20of%20List/) | `Linked List`, `Two Pointers` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
 | 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
 | 46 | [Permutations](./46.%20Permutations/) | `Array`, `Backtracking` |
+| 49 | [Group Anagrams](./49.%20Group%20Anagrams/) | `Array`, `Hash Table`, `String`, `Sorting` |
 | 53 | [Maximum Subarray](./53.%20Maximum%20Subarray/) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 54 | [Spiral Matrix](./54.%20Spiral%20Matrix/) | `Array`, `Matrix`, `Simulation` |
 | 57 | [Insert Interval](./57.%20Insert%20Interval/) | `Array` |
@@ -98,11 +100,13 @@ leetcode-solutions-tracker/
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/) | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree` |
 | 236 | [Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 238 | [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/) | `Array`, `Prefix Sum` |
+| 287 | [Find the Duplicate Number](./287.%20Find%20the%20Duplicate%20Number/) | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
+| 692 | [Top K Frequent Words](./692.%20Top%20K%20Frequent%20Words/) | `Array`, `Hash Table`, `String`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 739 | [Daily Temperatures](./739.%20Daily%20Temperatures/) | `Array`, `Stack`, `Monotonic Stack` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
