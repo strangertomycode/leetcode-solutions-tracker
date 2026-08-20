@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-86-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-88-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-46-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-48-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -88,8 +88,10 @@ leetcode-solutions-tracker/
 | 102 | [Binary Tree Level Order Traversal](./102.%20Binary%20Tree%20Level%20Order%20Traversal/) | `Tree`, `Breadth-First Search`, `Binary Tree` |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` |
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
+| 134 | [Gas Station](./134.%20Gas%20Station/) | `Array`, `Greedy` |
 | 139 | [Word Break](./139.%20Word%20Break/) | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
 | 150 | [Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation/) | `Array`, `Math`, `Stack` |
+| 152 | [Maximum Product Subarray](./152.%20Maximum%20Product%20Subarray/) | `Array`, `Dynamic Programming` |
 | 155 | [Min Stack](./155.%20Min%20Stack/) | `Stack`, `Design` |
 | 198 | [House Robber](./198.%20House%20Robber/) | `Array`, `Dynamic Programming` |
 | 199 | [Binary Tree Right Side View](./199.%20Binary%20Tree%20Right%20Side%20View/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
