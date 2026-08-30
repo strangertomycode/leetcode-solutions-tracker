@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-88-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-90-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-48-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-50-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -90,6 +90,7 @@ leetcode-solutions-tracker/
 | 133 | [Clone Graph](./133.%20Clone%20Graph/) | `Hash Table`, `Depth-First Search`, `Breadth-First Search`, `Graph Theory` |
 | 134 | [Gas Station](./134.%20Gas%20Station/) | `Array`, `Greedy` |
 | 139 | [Word Break](./139.%20Word%20Break/) | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memoization` |
+| 146 | [LRU Cache](./146.%20LRU%20Cache/) | `Hash Table`, `Linked List`, `Design`, `Doubly-Linked List` |
 | 150 | [Evaluate Reverse Polish Notation](./150.%20Evaluate%20Reverse%20Polish%20Notation/) | `Array`, `Math`, `Stack` |
 | 152 | [Maximum Product Subarray](./152.%20Maximum%20Product%20Subarray/) | `Array`, `Dynamic Programming` |
 | 155 | [Min Stack](./155.%20Min%20Stack/) | `Stack`, `Design` |
@@ -103,6 +104,7 @@ leetcode-solutions-tracker/
 | 236 | [Lowest Common Ancestor of a Binary Tree](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 238 | [Product of Array Except Self](./238.%20Product%20of%20Array%20Except%20Self/) | `Array`, `Prefix Sum` |
 | 287 | [Find the Duplicate Number](./287.%20Find%20the%20Duplicate%20Number/) | `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm` |
+| 310 | [Minimum Height Trees](./310.%20Minimum%20Height%20Trees/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
