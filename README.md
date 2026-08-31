@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-90-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-31-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-50-FFA116?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-92-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-32-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-51-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -53,6 +53,7 @@ leetcode-solutions-tracker/
 | 234 | [Palindrome Linked List](./234.%20Palindrome%20Linked%20List/) | `Linked List`, `Two Pointers`, `Stack`, `Recursion` |
 | 242 | [Valid Anagram](./242.%20Valid%20Anagram/) | `Hash Table`, `String`, `Sorting` |
 | 278 | [First Bad Version](./278.%20First%20Bad%20Version/) | `Binary Search`, `Interactive` |
+| 283 | [Move Zeroes](./283.%20Move%20Zeroes/) | `Array`, `Two Pointers` |
 | 338 | [Counting Bits](./338.%20Counting%20Bits/) | `Dynamic Programming`, `Bit Manipulation` |
 | 383 | [Ransom Note](./383.%20Ransom%20Note/) | `Hash Table`, `String`, `Counting` |
 | 409 | [Longest Palindrome](./409.%20Longest%20Palindrome/) | `Hash Table`, `String`, `Greedy` |
@@ -73,6 +74,7 @@ leetcode-solutions-tracker/
 | 15 | [3Sum](./15.%203Sum/) | `Array`, `Two Pointers`, `Sorting` |
 | 17 | [Letter Combinations of a Phone Number](./17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | `Hash Table`, `String`, `Backtracking` |
 | 19 | [Remove Nth Node From End of List](./19.%20Remove%20Nth%20Node%20From%20End%20of%20List/) | `Linked List`, `Two Pointers` |
+| 31 | [Next Permutation](./31.%20Next%20Permutation/) | `Array`, `Two Pointers` |
 | 33 | [Search in Rotated Sorted Array](./33.%20Search%20in%20Rotated%20Sorted%20Array/) | `Array`, `Binary Search` |
 | 39 | [Combination Sum](./39.%20Combination%20Sum/) | `Array`, `Backtracking` |
 | 46 | [Permutations](./46.%20Permutations/) | `Array`, `Backtracking` |
