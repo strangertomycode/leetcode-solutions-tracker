@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-92-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-32-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-93-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-33-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-51-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
@@ -62,6 +62,7 @@ leetcode-solutions-tracker/
 | 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 844 | [Backspace String Compare](./844.%20Backspace%20String%20Compare/) | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
+| 1929 | [Concatenation of Array](./1929.%20Concatenation%20of%20Array/) | `Array`, `Simulation` |
 
 ## 🟡 Medium
 
