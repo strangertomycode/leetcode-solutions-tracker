@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-95-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-35-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-98-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-38-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-51-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
@@ -57,12 +57,15 @@ leetcode-solutions-tracker/
 | 338 | [Counting Bits](./338.%20Counting%20Bits/) | `Dynamic Programming`, `Bit Manipulation` |
 | 383 | [Ransom Note](./383.%20Ransom%20Note/) | `Hash Table`, `String`, `Counting` |
 | 409 | [Longest Palindrome](./409.%20Longest%20Palindrome/) | `Hash Table`, `String`, `Greedy` |
+| 448 | [Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | `Array`, `Hash Table` |
 | 485 | [Max Consecutive Ones](./485.%20Max%20Consecutive%20Ones/) | `Array` |
 | 543 | [Diameter of Binary Tree](./543.%20Diameter%20of%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
+| 645 | [Set Mismatch](./645.%20Set%20Mismatch/) | `Array`, `Hash Table`, `Bit Manipulation`, `Sorting` |
 | 704 | [Binary Search](./704.%20Binary%20Search/) | `Array`, `Binary Search` |
 | 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 844 | [Backspace String Compare](./844.%20Backspace%20String%20Compare/) | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](./1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | `Array`, `Hash Table`, `Sorting`, `Counting Sort` |
 | 1470 | [Shuffle the Array](./1470.%20Shuffle%20the%20Array/) | `Array` |
 | 1929 | [Concatenation of Array](./1929.%20Concatenation%20of%20Array/) | `Array`, `Simulation` |
 
