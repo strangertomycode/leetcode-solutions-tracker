@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-98-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-100-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-38-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-51-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-53-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
 </div>
@@ -118,12 +118,14 @@ leetcode-solutions-tracker/
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
+| 636 | [Exclusive Time of Functions](./636.%20Exclusive%20Time%20of%20Functions/) | `Array`, `Stack` |
 | 692 | [Top K Frequent Words](./692.%20Top%20K%20Frequent%20Words/) | `Array`, `Hash Table`, `String`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 739 | [Daily Temperatures](./739.%20Daily%20Temperatures/) | `Array`, `Stack`, `Monotonic Stack` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | 981 | [Time Based Key-Value Store](./981.%20Time%20Based%20Key-Value%20Store/) | `Hash Table`, `String`, `Binary Search`, `Design` |
 | 994 | [Rotting Oranges](./994.%20Rotting%20Oranges/) | `Array`, `Breadth-First Search`, `Matrix` |
+| 1441 | [Build an Array With Stack Operations](./1441.%20Build%20an%20Array%20With%20Stack%20Operations/) | `Array`, `Stack`, `Simulation` |
 
 ## 🔴 Hard
 
