@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-100-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-38-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-101-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-39-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-53-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
@@ -67,6 +67,7 @@ leetcode-solutions-tracker/
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | `Array`, `Hash Table`, `Sorting`, `Counting Sort` |
 | 1470 | [Shuffle the Array](./1470.%20Shuffle%20the%20Array/) | `Array` |
+| 1475 | [Final Prices With a Special Discount in a Shop](./1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/) | `Array`, `Stack`, `Monotonic Stack` |
 | 1929 | [Concatenation of Array](./1929.%20Concatenation%20of%20Array/) | `Array`, `Simulation` |
 
 ## 🟡 Medium
