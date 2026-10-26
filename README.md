@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-101-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-39-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-105-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-43-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-53-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
 
@@ -35,6 +35,7 @@ leetcode-solutions-tracker/
 | 14 | [Longest Common Prefix](./14.%20Longest%20Common%20Prefix/) | `Array`, `String`, `Trie` |
 | 20 | [Valid Parentheses](./20.%20Valid%20Parentheses/) | `String`, `Stack` |
 | 21 | [Merge Two Sorted Lists](./21.%20Merge%20Two%20Sorted%20Lists/) | `Linked List`, `Recursion` |
+| 66 | [Plus One](./66.%20Plus%20One/) | `Array`, `Math` |
 | 67 | [Add Binary](./67.%20Add%20Binary/) | `Math`, `String`, `Bit Manipulation`, `Simulation` |
 | 70 | [Climbing Stairs](./70.%20Climbing%20Stairs/) | `Math`, `Dynamic Programming`, `Memoization` |
 | 100 | [Same Tree](./100.%20Same%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
@@ -65,10 +66,13 @@ leetcode-solutions-tracker/
 | 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 844 | [Backspace String Compare](./844.%20Backspace%20String%20Compare/) | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
+| 941 | [Valid Mountain Array](./941.%20Valid%20Mountain%20Array/) | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | `Array`, `Hash Table`, `Sorting`, `Counting Sort` |
 | 1470 | [Shuffle the Array](./1470.%20Shuffle%20the%20Array/) | `Array` |
 | 1475 | [Final Prices With a Special Discount in a Shop](./1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/) | `Array`, `Stack`, `Monotonic Stack` |
+| 1700 | [Number of Students Unable to Eat Lunch](./1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/) | `Array`, `Stack`, `Queue`, `Simulation` |
 | 1929 | [Concatenation of Array](./1929.%20Concatenation%20of%20Array/) | `Array`, `Simulation` |
+| 2073 | [Time Needed to Buy Tickets](./2073.%20Time%20Needed%20to%20Buy%20Tickets/) | `Array`, `Queue`, `Simulation` |
 
 ## 🟡 Medium
 
