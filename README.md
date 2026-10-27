@@ -4,10 +4,10 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-106-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-43-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-54-FFA116?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-9-FF375F?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-109-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-44-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-55-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
 </div>
 
@@ -67,6 +67,7 @@ leetcode-solutions-tracker/
 | 844 | [Backspace String Compare](./844.%20Backspace%20String%20Compare/) | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
 | 941 | [Valid Mountain Array](./941.%20Valid%20Mountain%20Array/) | `Array` |
+| 1046 | [Last Stone Weight](./1046.%20Last%20Stone%20Weight/) | `Array`, `Heap (Priority Queue)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | `Array`, `Hash Table`, `Sorting`, `Counting Sort` |
 | 1470 | [Shuffle the Array](./1470.%20Shuffle%20the%20Array/) | `Array` |
 | 1475 | [Final Prices With a Special Discount in a Shop](./1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/) | `Array`, `Stack`, `Monotonic Stack` |
@@ -120,6 +121,7 @@ leetcode-solutions-tracker/
 | 310 | [Minimum Height Trees](./310.%20Minimum%20Height%20Trees/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
 | 316 | [Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters/) | `String`, `Stack`, `Greedy`, `Monotonic Stack` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
+| 373 | [Find K Pairs with Smallest Sums](./373.%20Find%20K%20Pairs%20with%20Smallest%20Sums/) | `Array`, `Heap (Priority Queue)` |
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
@@ -146,5 +148,6 @@ leetcode-solutions-tracker/
 | 295 | [Find Median from Data Stream](./295.%20Find%20Median%20from%20Data%20Stream/) | `Two Pointers`, `Design`, `Sorting`, `Heap (Priority Queue)`, `Data Stream` |
 | 297 | [Serialize and Deserialize Binary Tree](./297.%20Serialize%20and%20Deserialize%20Binary%20Tree/) | `String`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Tree` |
 | 1235 | [Maximum Profit in Job Scheduling](./1235.%20Maximum%20Profit%20in%20Job%20Scheduling/) | `Array`, `Binary Search`, `Dynamic Programming`, `Sorting` |
+| 1354 | [Construct Target Array With Multiple Sums](./1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/) | `Array`, `Heap (Priority Queue)` |
 
 ---
