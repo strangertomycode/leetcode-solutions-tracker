@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-109-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-44-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-55-FFA116?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-112-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-46-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-56-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
 </div>
@@ -59,7 +59,9 @@ leetcode-solutions-tracker/
 | 383 | [Ransom Note](./383.%20Ransom%20Note/) | `Hash Table`, `String`, `Counting` |
 | 409 | [Longest Palindrome](./409.%20Longest%20Palindrome/) | `Hash Table`, `String`, `Greedy` |
 | 448 | [Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | `Array`, `Hash Table` |
+| 482 | [License Key Formatting](./482.%20License%20Key%20Formatting/) | `String` |
 | 485 | [Max Consecutive Ones](./485.%20Max%20Consecutive%20Ones/) | `Array` |
+| 520 | [Detect Capital](./520.%20Detect%20Capital/) | `String` |
 | 543 | [Diameter of Binary Tree](./543.%20Diameter%20of%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
 | 645 | [Set Mismatch](./645.%20Set%20Mismatch/) | `Array`, `Hash Table`, `Bit Manipulation`, `Sorting` |
 | 704 | [Binary Search](./704.%20Binary%20Search/) | `Array`, `Binary Search` |
@@ -130,6 +132,7 @@ leetcode-solutions-tracker/
 | 692 | [Top K Frequent Words](./692.%20Top%20K%20Frequent%20Words/) | `Array`, `Hash Table`, `String`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 739 | [Daily Temperatures](./739.%20Daily%20Temperatures/) | `Array`, `Stack`, `Monotonic Stack` |
+| 831 | [Masking Personal Information](./831.%20Masking%20Personal%20Information/) | `String` |
 | 973 | [K Closest Points to Origin](./973.%20K%20Closest%20Points%20to%20Origin/) | `Array`, `Math`, `Divide and Conquer`, `Geometry`, `Sorting`, `Heap (Priority Queue)`, `Quickselect` |
 | 981 | [Time Based Key-Value Store](./981.%20Time%20Based%20Key-Value%20Store/) | `Hash Table`, `String`, `Binary Search`, `Design` |
 | 994 | [Rotting Oranges](./994.%20Rotting%20Oranges/) | `Array`, `Breadth-First Search`, `Matrix` |
