@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-112-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-46-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-56-FFA116?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-115-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-48-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-57-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
 </div>
@@ -59,6 +59,7 @@ leetcode-solutions-tracker/
 | 383 | [Ransom Note](./383.%20Ransom%20Note/) | `Hash Table`, `String`, `Counting` |
 | 409 | [Longest Palindrome](./409.%20Longest%20Palindrome/) | `Hash Table`, `String`, `Greedy` |
 | 448 | [Find All Numbers Disappeared in an Array](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | `Array`, `Hash Table` |
+| 459 | [Repeated Substring Pattern](./459.%20Repeated%20Substring%20Pattern/) | `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm` |
 | 482 | [License Key Formatting](./482.%20License%20Key%20Formatting/) | `String` |
 | 485 | [Max Consecutive Ones](./485.%20Max%20Consecutive%20Ones/) | `Array` |
 | 520 | [Detect Capital](./520.%20Detect%20Capital/) | `String` |
@@ -66,6 +67,7 @@ leetcode-solutions-tracker/
 | 645 | [Set Mismatch](./645.%20Set%20Mismatch/) | `Array`, `Hash Table`, `Bit Manipulation`, `Sorting` |
 | 704 | [Binary Search](./704.%20Binary%20Search/) | `Array`, `Binary Search` |
 | 733 | [Flood Fill](./733.%20Flood%20Fill/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| 796 | [Rotate String](./796.%20Rotate%20String/) | `String`, `String Matching` |
 | 844 | [Backspace String Compare](./844.%20Backspace%20String%20Compare/) | `Two Pointers`, `String`, `Stack`, `Simulation` |
 | 876 | [Middle of the Linked List](./876.%20Middle%20of%20the%20Linked%20List/) | `Linked List`, `Two Pointers` |
 | 941 | [Valid Mountain Array](./941.%20Valid%20Mountain%20Array/) | `Array` |
@@ -129,6 +131,7 @@ leetcode-solutions-tracker/
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
 | 636 | [Exclusive Time of Functions](./636.%20Exclusive%20Time%20of%20Functions/) | `Array`, `Stack` |
+| 686 | [Repeated String Match](./686.%20Repeated%20String%20Match/) | `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm`, `Boyer–Moore String-Search Algorithm` |
 | 692 | [Top K Frequent Words](./692.%20Top%20K%20Frequent%20Words/) | `Array`, `Hash Table`, `String`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
 | 721 | [Accounts Merge](./721.%20Accounts%20Merge/) | `Array`, `Hash Table`, `String`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Sorting` |
 | 739 | [Daily Temperatures](./739.%20Daily%20Temperatures/) | `Array`, `Stack`, `Monotonic Stack` |
