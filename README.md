@@ -4,8 +4,8 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-115-4A90D9?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-48-00B8A3?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-116-4A90D9?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-49-00B8A3?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-57-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
@@ -38,6 +38,7 @@ leetcode-solutions-tracker/
 | 66 | [Plus One](./66.%20Plus%20One/) | `Array`, `Math` |
 | 67 | [Add Binary](./67.%20Add%20Binary/) | `Math`, `String`, `Bit Manipulation`, `Simulation` |
 | 70 | [Climbing Stairs](./70.%20Climbing%20Stairs/) | `Math`, `Dynamic Programming`, `Memoization` |
+| 83 | [Remove Duplicates from Sorted List](./83.%20Remove%20Duplicates%20from%20Sorted%20List/) | `Linked List` |
 | 100 | [Same Tree](./100.%20Same%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 104 | [Maximum Depth of Binary Tree](./104.%20Maximum%20Depth%20of%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree` |
 | 110 | [Balanced Binary Tree](./110.%20Balanced%20Binary%20Tree/) | `Tree`, `Depth-First Search`, `Binary Tree` |
