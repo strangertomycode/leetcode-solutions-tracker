@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-116-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-118-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-49-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-57-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-59-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
 </div>
@@ -131,6 +131,7 @@ leetcode-solutions-tracker/
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
 | 542 | [01 Matrix](./542.%2001%20Matrix/) | `Array`, `Dynamic Programming`, `Breadth-First Search`, `Matrix` |
 | 621 | [Task Scheduler](./621.%20Task%20Scheduler/) | `Array`, `Hash Table`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Counting` |
+| 622 | [Design Circular Queue](./622.%20Design%20Circular%20Queue/) | `Array`, `Linked List`, `Design`, `Queue` |
 | 636 | [Exclusive Time of Functions](./636.%20Exclusive%20Time%20of%20Functions/) | `Array`, `Stack` |
 | 686 | [Repeated String Match](./686.%20Repeated%20String%20Match/) | `String`, `String Matching`, `Z Algorithm`, `Knuth–Morris–Pratt Algorithm`, `Boyer–Moore String-Search Algorithm` |
 | 692 | [Top K Frequent Words](./692.%20Top%20K%20Frequent%20Words/) | `Array`, `Hash Table`, `String`, `Trie`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` |
@@ -141,6 +142,7 @@ leetcode-solutions-tracker/
 | 981 | [Time Based Key-Value Store](./981.%20Time%20Based%20Key-Value%20Store/) | `Hash Table`, `String`, `Binary Search`, `Design` |
 | 994 | [Rotting Oranges](./994.%20Rotting%20Oranges/) | `Array`, `Breadth-First Search`, `Matrix` |
 | 1441 | [Build an Array With Stack Operations](./1441.%20Build%20an%20Array%20With%20Stack%20Operations/) | `Array`, `Stack`, `Simulation` |
+| 1705 | [Maximum Number of Eaten Apples](./1705.%20Maximum%20Number%20of%20Eaten%20Apples/) | `Array`, `Greedy`, `Heap (Priority Queue)` |
 
 ## 🔴 Hard
 
