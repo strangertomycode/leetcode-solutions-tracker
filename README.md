@@ -4,9 +4,9 @@
 
 Automated archive of accepted LeetCode solutions, synced using a custom Python tool.
 
-![Total](https://img.shields.io/badge/Total-118-4A90D9?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-119-4A90D9?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-49-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-59-FFA116?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-60-FFA116?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-FF375F?style=for-the-badge)
 
 </div>
@@ -126,6 +126,7 @@ leetcode-solutions-tracker/
 | 310 | [Minimum Height Trees](./310.%20Minimum%20Height%20Trees/) | `Depth-First Search`, `Breadth-First Search`, `Graph Theory`, `Topological Sort` |
 | 316 | [Remove Duplicate Letters](./316.%20Remove%20Duplicate%20Letters/) | `String`, `Stack`, `Greedy`, `Monotonic Stack` |
 | 322 | [Coin Change](./322.%20Coin%20Change/) | `Array`, `Dynamic Programming`, `Breadth-First Search` |
+| 328 | [Odd Even Linked List](./328.%20Odd%20Even%20Linked%20List/) | `Linked List` |
 | 373 | [Find K Pairs with Smallest Sums](./373.%20Find%20K%20Pairs%20with%20Smallest%20Sums/) | `Array`, `Heap (Priority Queue)` |
 | 416 | [Partition Equal Subset Sum](./416.%20Partition%20Equal%20Subset%20Sum/) | `Array`, `Dynamic Programming` |
 | 438 | [Find All Anagrams in a String](./438.%20Find%20All%20Anagrams%20in%20a%20String/) | `Hash Table`, `String`, `Sliding Window` |
